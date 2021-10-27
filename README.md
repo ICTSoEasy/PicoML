@@ -1,2 +1,1 @@
-"# PicoML" 
-"# PicoML" 
+# Machine Learning with the Raspberry Pi Pico 
